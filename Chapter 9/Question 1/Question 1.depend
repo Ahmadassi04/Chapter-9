@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1704794526 source:c:\users\hp\desktop\c++ challenge\chapter 9\question 1\random.cpp
+	<chrono>
+	<random>
+
+1704795487 source:c:\users\hp\desktop\c++ challenge\chapter 9\question 1\main.cpp
+	"random.cpp"
+	<iostream>
+	<limits>
+
+1704794526 c:\users\hp\desktop\c++ challenge\chapter 9\question 1\random.cpp
+	<chrono>
+	<random>
+
